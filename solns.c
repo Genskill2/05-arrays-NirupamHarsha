@@ -1,5 +1,6 @@
 /* Enter your solutions in this file */
 #include <stdio.h>
+#include <math.h>
 //max function
 int max(int a[],int n) {
   int mx = a[0];
